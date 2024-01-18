@@ -58,7 +58,7 @@ public class CalculadoraApp {
                 resultado = operando1 / operando2;
                 break;
             default:
-                System.out.println("Opcion Erronea");
+                System.out.println("Unknow Option");
                 break;
         }
         return resultado;
